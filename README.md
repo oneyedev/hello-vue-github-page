@@ -1,29 +1,6 @@
 # hello-vue-github-page
 
-## Project setup
-```
-npm install
-```
+This is a sample vue-github-page project. please visit [build-github-page-using-vue-cli-3](https://oneyedev.github.io/#/articles/build-github-page-using-vue-cli-3)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# License
+This project is released under MIT License. See [LICENSE](https://github.com/oneyedev/hello-vue-github-page/blob/master/LICENSE) file for details.
